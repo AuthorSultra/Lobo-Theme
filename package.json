@@ -64,7 +64,7 @@
   },
   "devDependencies": {
     "@babel/plugin-syntax-import-assertions": "^7",
-    "@commitlint/cli": "^17",
+    "@commitlint/cli": "^18",
     "@lobehub/i18n-cli": "latest",
     "@lobehub/lint": "latest",
     "@lobehub/ui": "latest",
